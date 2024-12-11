@@ -1,0 +1,9 @@
+pandas
+numpy
+bs4
+flask
+streamlit
+memory_profiler
+flask
+streamlit
+scikit-learn
